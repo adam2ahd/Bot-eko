@@ -307,5 +307,5 @@ var sendMessageChannel = function (channel, content, p = {}) {
 mysql.connect(function (err) {
     if (err) throw err;
     console.log("SQL | Connected!");
-    client.login("NDQ0MjA2OTYxNTA5MDA3MzYz.DfV2wA.Bl-tIFjAnuQjv7EOBDVOtXq6anY");
+    client.login("NDQ0MjA2OTYxNTA5MDA3MzYz.Dl3ANQ.WdMqbTUXsYCwG-tv2yMSDyrFzYA");
 });
